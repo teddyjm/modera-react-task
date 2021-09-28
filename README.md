@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Task description
+
+If you are doing a take-home task please clone this repository to your github account as a public repo and commit all changes there.
+
+Please extend the exisiting app to have a default view that allows to search for tv series.
+There is an existing TvMazeApi api component that you need to reuse
+
+There should be a single view that has:
+- text input where you can put the query (i.e. "Game of Thrones", "Suits")
+- when the input is changed you should query the API and present results below the text input
+- result should be a list of tv series returned from the API
+- each item in the list should contain: image, name, rating
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
