@@ -1,6 +1,6 @@
 # Task description
 
-If you are doing a take-home task please clone this repository to your github account as a public repo and commit all changes there.
+If you are doing a take-home task please fork this repository to your github account as a public repo and commit all changes there.
 
 Please extend the exisiting app to have a default view that allows to search for tv series.
 There is an existing TvMazeApi api component that you need to reuse
